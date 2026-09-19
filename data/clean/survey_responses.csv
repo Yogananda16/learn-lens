@@ -1,0 +1,289 @@
+response_id,enrollment_id,survey_date,survey_type,satisfaction,belonging,comment
+R00001,E0001,2024-01-27,Mid-Program,4,5,It felt like a community. Everyone helped each other out.
+R00002,E0001,2024-06-15,End-of-Program,4,4,
+R00003,E0002,2024-06-18,End-of-Program,3,4,The portfolio and career prep sessions were really useful.
+R00004,E0003,2024-01-27,Mid-Program,4,5,
+R00005,E0003,2024-06-17,End-of-Program,3,4,The portfolio and career prep sessions were really useful. Getting to the studio was hard. The bus takes forever.
+R00006,E0005,2024-01-27,Mid-Program,3,4,I liked building real projects instead of just sitting through lectures. It felt like a community. Everyone helped each other out.
+R00007,E0006,2024-01-27,Mid-Program,2,4,
+R00008,E0006,2024-05-01,Withdrawal,2,3,My mentor was patient and explained things until I got it. Getting to the studio was hard. The bus takes forever.
+R00009,E0007,2024-01-27,Mid-Program,4,5,I liked building real projects instead of just sitting through lectures.
+R00010,E0008,2024-01-27,Mid-Program,5,2,"I wanted more laptop time, and the wifi was slow."
+R00011,E0009,2024-01-27,Mid-Program,5,3,
+R00012,E0009,2024-06-16,End-of-Program,5,4,The portfolio and career prep sessions were really useful.
+R00013,E0011,2024-06-16,End-of-Program,2,3,"The schedule clashed with school and other commitments, so it was hard to keep up. I liked building real projects instead of just sitting through lectures."
+R00014,E0012,2024-01-27,Mid-Program,5,4,It felt like a community. Everyone helped each other out.
+R00015,E0013,2024-01-27,Mid-Program,4,3,
+R00016,E0013,2024-06-18,End-of-Program,4,3,The portfolio and career prep sessions were really useful.
+R00017,E0015,2024-01-27,Mid-Program,3,1,"Some weeks moved too fast and I felt lost. I work part-time and have family duties, so I missed sessions."
+R00018,E0016,2024-01-27,Mid-Program,5,4,I liked building real projects instead of just sitting through lectures.
+R00019,E0016,2024-06-16,End-of-Program,5,5,
+R00020,E0017,2024-01-27,Mid-Program,3,5,"I wanted more laptop time, and the wifi was slow. The schedule clashed with school and other commitments, so it was hard to keep up."
+R00021,E0018,2024-01-27,Mid-Program,4,5,The portfolio and career prep sessions were really useful. Getting to the studio was hard. The bus takes forever.
+R00022,E0018,2024-06-15,End-of-Program,4,5,Getting to the studio was hard. The bus takes forever.
+R00023,E0019,2024-01-27,Mid-Program,4,3,
+R00024,E0019,2024-06-18,End-of-Program,5,3,"The schedule clashed with school and other commitments, so it was hard to keep up. It felt like a community. Everyone helped each other out."
+R00025,E0020,2024-01-27,Mid-Program,5,4,
+R00026,E0020,2024-06-18,End-of-Program,5,4,The portfolio and career prep sessions were really useful. I liked building real projects instead of just sitting through lectures.
+R00027,E0021,2024-01-27,Mid-Program,4,5,It felt like a community. Everyone helped each other out.
+R00028,E0022,2024-01-27,Mid-Program,5,5,
+R00029,E0023,2024-01-27,Mid-Program,3,4,The portfolio and career prep sessions were really useful.
+R00030,E0023,2024-06-16,End-of-Program,5,5,My mentor was patient and explained things until I got it.
+R00031,E0025,2024-01-27,Mid-Program,5,3,The portfolio and career prep sessions were really useful.
+R00032,E0026,2024-01-27,Mid-Program,5,5,I liked building real projects instead of just sitting through lectures. My mentor was patient and explained things until I got it.
+R00033,E0026,2024-06-14,End-of-Program,5,5,I liked building real projects instead of just sitting through lectures.
+R00034,E0027,2024-01-27,Mid-Program,4,5,It felt like a community. Everyone helped each other out. My mentor was patient and explained things until I got it.
+R00035,E0027,2024-06-14,End-of-Program,4,3,Some weeks moved too fast and I felt lost. It felt like a community. Everyone helped each other out.
+R00036,E0028,2024-01-27,Mid-Program,5,4,The portfolio and career prep sessions were really useful.
+R00037,E0028,2024-06-14,End-of-Program,4,4,My mentor was patient and explained things until I got it. I liked building real projects instead of just sitting through lectures.
+R00038,E0029,2024-01-27,Mid-Program,4,4,"My mentor was patient and explained things until I got it. I wanted more laptop time, and the wifi was slow."
+R00039,E0030,2024-01-27,Mid-Program,4,5,My mentor was patient and explained things until I got it.
+R00040,E0031,2024-04-22,Withdrawal,3,3,
+R00041,E0032,2024-01-27,Mid-Program,5,5,The portfolio and career prep sessions were really useful. It felt like a community. Everyone helped each other out.
+R00042,E0032,2024-06-15,End-of-Program,4,5,
+R00043,E0033,2024-01-27,Mid-Program,5,3,The portfolio and career prep sessions were really useful.
+R00044,E0033,2024-06-16,End-of-Program,4,5,Getting to the studio was hard. The bus takes forever. I liked building real projects instead of just sitting through lectures.
+R00045,E0034,2024-01-27,Mid-Program,3,3,The portfolio and career prep sessions were really useful.
+R00046,E0035,2024-01-27,Mid-Program,5,4,
+R00047,E0036,2024-01-27,Mid-Program,4,5,
+R00048,E0036,2024-06-15,End-of-Program,5,4,"It felt like a community. Everyone helped each other out. The schedule clashed with school and other commitments, so it was hard to keep up."
+R00049,E0037,2024-06-17,End-of-Program,5,4,I liked building real projects instead of just sitting through lectures.
+R00050,E0039,2024-01-27,Mid-Program,4,2,"I wanted more laptop time, and the wifi was slow."
+R00051,E0040,2024-06-14,End-of-Program,4,4,Some weeks moved too fast and I felt lost.
+R00052,E0041,2024-01-27,Mid-Program,4,5,I was not always sure what was expected for project deadlines. Getting to the studio was hard. The bus takes forever.
+R00053,E0041,2024-06-18,End-of-Program,4,5,The portfolio and career prep sessions were really useful. It felt like a community. Everyone helped each other out.
+R00054,E0042,2024-06-17,End-of-Program,5,4,
+R00055,E0043,2024-01-27,Mid-Program,3,4,"The schedule clashed with school and other commitments, so it was hard to keep up. My mentor was patient and explained things until I got it."
+R00056,E0044,2024-01-27,Mid-Program,5,4,"The schedule clashed with school and other commitments, so it was hard to keep up. It felt like a community. Everyone helped each other out."
+R00057,E0045,2024-04-06,Mid-Program,5,4,I was not always sure what was expected for project deadlines.
+R00058,E0045,2024-07-05,End-of-Program,4,5,I liked building real projects instead of just sitting through lectures.
+R00059,E0046,2024-07-09,End-of-Program,5,4,"I work part-time and have family duties, so I missed sessions. I wanted more laptop time, and the wifi was slow."
+R00060,E0047,2024-03-09,Withdrawal,4,3,I liked building real projects instead of just sitting through lectures.
+R00061,E0048,2024-04-06,Mid-Program,5,5,The portfolio and career prep sessions were really useful. I liked building real projects instead of just sitting through lectures.
+R00062,E0048,2024-07-08,End-of-Program,4,4,It felt like a community. Everyone helped each other out. The portfolio and career prep sessions were really useful.
+R00063,E0049,2024-04-06,Mid-Program,5,4,The portfolio and career prep sessions were really useful. It felt like a community. Everyone helped each other out.
+R00064,E0049,2024-07-06,End-of-Program,5,4,I liked building real projects instead of just sitting through lectures.
+R00065,E0050,2024-04-06,Mid-Program,5,4,"I wanted more laptop time, and the wifi was slow. My mentor was patient and explained things until I got it."
+R00066,E0050,2024-07-09,End-of-Program,4,5,
+R00067,E0051,2024-04-06,Mid-Program,5,5,The portfolio and career prep sessions were really useful.
+R00068,E0051,2024-07-06,End-of-Program,5,4,
+R00069,E0052,2024-04-06,Mid-Program,3,5,It felt like a community. Everyone helped each other out.
+R00070,E0055,2024-04-06,Mid-Program,3,4,
+R00071,E0055,2024-07-09,End-of-Program,3,5,I liked building real projects instead of just sitting through lectures.
+R00072,E0056,2024-07-09,End-of-Program,5,5,My mentor was patient and explained things until I got it.
+R00073,E0058,2024-04-06,Mid-Program,3,3,I was not always sure what was expected for project deadlines.
+R00074,E0058,2024-04-25,Withdrawal,3,3,Getting to the studio was hard. The bus takes forever. I liked building real projects instead of just sitting through lectures.
+R00075,E0059,2024-04-06,Mid-Program,3,4,It felt like a community. Everyone helped each other out. I liked building real projects instead of just sitting through lectures.
+R00076,E0059,2024-07-08,End-of-Program,5,4,
+R00077,E0060,2024-04-06,Mid-Program,4,4,
+R00078,E0060,2024-07-07,End-of-Program,5,5,I was not always sure what was expected for project deadlines.
+R00079,E0061,2024-04-06,Mid-Program,4,4,It felt like a community. Everyone helped each other out. I liked building real projects instead of just sitting through lectures.
+R00080,E0061,2024-07-08,End-of-Program,5,4,"I wanted more laptop time, and the wifi was slow. It felt like a community. Everyone helped each other out."
+R00081,E0064,2024-04-13,Mid-Program,3,5,The portfolio and career prep sessions were really useful.
+R00082,E0066,2024-04-13,Mid-Program,4,4,I liked building real projects instead of just sitting through lectures.
+R00083,E0066,2024-06-26,End-of-Program,5,5,It felt like a community. Everyone helped each other out. I was not always sure what was expected for project deadlines.
+R00084,E0067,2024-06-24,End-of-Program,4,5,
+R00085,E0068,2024-04-13,Mid-Program,3,4,
+R00086,E0068,2024-06-24,End-of-Program,5,4,It felt like a community. Everyone helped each other out. My mentor was patient and explained things until I got it.
+R00087,E0069,2024-04-13,Mid-Program,3,3,"The schedule clashed with school and other commitments, so it was hard to keep up."
+R00088,E0069,2024-06-23,End-of-Program,3,4,Some weeks moved too fast and I felt lost.
+R00089,E0070,2024-04-13,Mid-Program,3,4,It felt like a community. Everyone helped each other out.
+R00090,E0071,2024-04-13,Mid-Program,3,3,I liked building real projects instead of just sitting through lectures. The portfolio and career prep sessions were really useful.
+R00091,E0071,2024-06-22,End-of-Program,4,4,The portfolio and career prep sessions were really useful. My mentor was patient and explained things until I got it.
+R00092,E0072,2024-06-25,End-of-Program,4,4,It felt like a community. Everyone helped each other out.
+R00093,E0074,2024-04-13,Mid-Program,4,4,Some weeks moved too fast and I felt lost.
+R00094,E0075,2024-04-13,Mid-Program,4,3,"I work part-time and have family duties, so I missed sessions."
+R00095,E0075,2024-06-21,End-of-Program,4,4,I liked building real projects instead of just sitting through lectures. The portfolio and career prep sessions were really useful.
+R00096,E0076,2024-06-24,End-of-Program,4,5,It felt like a community. Everyone helped each other out.
+R00097,E0077,2024-04-13,Mid-Program,4,4,I liked building real projects instead of just sitting through lectures.
+R00098,E0077,2024-06-26,End-of-Program,5,5,It felt like a community. Everyone helped each other out. I liked building real projects instead of just sitting through lectures.
+R00099,E0078,2024-04-13,Mid-Program,3,4,The portfolio and career prep sessions were really useful.
+R00100,E0078,2024-06-25,End-of-Program,5,4,It felt like a community. Everyone helped each other out.
+R00101,E0079,2024-04-13,Mid-Program,4,5,My mentor was patient and explained things until I got it.
+R00102,E0080,2024-04-13,Mid-Program,3,3,It felt like a community. Everyone helped each other out.
+R00103,E0080,2024-06-22,End-of-Program,4,4,I liked building real projects instead of just sitting through lectures.
+R00104,E0081,2024-04-13,Mid-Program,3,4,I was not always sure what was expected for project deadlines.
+R00105,E0081,2024-06-26,End-of-Program,4,3,I liked building real projects instead of just sitting through lectures.
+R00106,E0082,2024-11-09,Mid-Program,5,5,The portfolio and career prep sessions were really useful.
+R00107,E0083,2025-02-07,End-of-Program,5,5,
+R00108,E0084,2024-11-09,Mid-Program,3,4,
+R00109,E0084,2025-02-08,End-of-Program,4,4,
+R00110,E0085,2025-02-07,End-of-Program,4,5,The portfolio and career prep sessions were really useful.
+R00111,E0086,2024-11-09,Mid-Program,4,5,
+R00112,E0086,2025-02-08,End-of-Program,4,5,
+R00113,E0088,2024-11-09,Mid-Program,5,5,My mentor was patient and explained things until I got it. I liked building real projects instead of just sitting through lectures.
+R00114,E0089,2024-11-09,Mid-Program,3,3,It felt like a community. Everyone helped each other out. The portfolio and career prep sessions were really useful.
+R00115,E0089,2025-02-12,End-of-Program,5,4,I liked building real projects instead of just sitting through lectures.
+R00116,E0090,2024-11-09,Mid-Program,3,2,
+R00117,E0090,2025-02-11,End-of-Program,3,2,My mentor was patient and explained things until I got it.
+R00118,E0091,2024-11-09,Mid-Program,5,4,The portfolio and career prep sessions were really useful.
+R00119,E0092,2025-02-12,End-of-Program,4,5,My mentor was patient and explained things until I got it.
+R00120,E0093,2024-11-09,Mid-Program,5,4,
+R00121,E0093,2025-02-08,End-of-Program,4,5,"I work part-time and have family duties, so I missed sessions."
+R00122,E0094,2024-11-09,Mid-Program,5,5,I liked building real projects instead of just sitting through lectures.
+R00123,E0095,2024-11-09,Mid-Program,4,4,Some weeks moved too fast and I felt lost. I was not always sure what was expected for project deadlines.
+R00124,E0095,2025-02-12,End-of-Program,3,3,"I wanted more laptop time, and the wifi was slow. Getting to the studio was hard. The bus takes forever."
+R00125,E0096,2024-11-09,Mid-Program,4,4,My mentor was patient and explained things until I got it.
+R00126,E0096,2025-02-11,End-of-Program,3,5,My mentor was patient and explained things until I got it.
+R00127,E0097,2024-11-09,Mid-Program,4,4,My mentor was patient and explained things until I got it. The portfolio and career prep sessions were really useful.
+R00128,E0098,2024-11-09,Mid-Program,2,2,
+R00129,E0098,2025-02-10,End-of-Program,4,2,My mentor was patient and explained things until I got it.
+R00130,E0099,2024-11-09,Mid-Program,3,3,I liked building real projects instead of just sitting through lectures.
+R00131,E0100,2025-01-25,Mid-Program,4,5,Getting to the studio was hard. The bus takes forever. The portfolio and career prep sessions were really useful.
+R00132,E0100,2025-06-13,End-of-Program,3,4,I liked building real projects instead of just sitting through lectures. The portfolio and career prep sessions were really useful.
+R00133,E0101,2025-01-25,Mid-Program,4,2,"I work part-time and have family duties, so I missed sessions."
+R00134,E0101,2025-06-14,End-of-Program,3,4,I was not always sure what was expected for project deadlines.
+R00135,E0102,2025-01-25,Mid-Program,3,4,The portfolio and career prep sessions were really useful.
+R00136,E0103,2025-01-25,Mid-Program,5,4,Some weeks moved too fast and I felt lost. The portfolio and career prep sessions were really useful.
+R00137,E0103,2025-06-13,End-of-Program,5,5,It felt like a community. Everyone helped each other out. The portfolio and career prep sessions were really useful.
+R00138,E0104,2025-01-25,Mid-Program,3,5,Getting to the studio was hard. The bus takes forever. My mentor was patient and explained things until I got it.
+R00139,E0105,2025-06-14,End-of-Program,5,4,
+R00140,E0107,2025-01-25,Mid-Program,5,5,Getting to the studio was hard. The bus takes forever. The portfolio and career prep sessions were really useful.
+R00141,E0108,2025-01-25,Mid-Program,5,3,"I work part-time and have family duties, so I missed sessions."
+R00142,E0110,2025-06-14,End-of-Program,4,4,My mentor was patient and explained things until I got it.
+R00143,E0111,2025-01-25,Mid-Program,4,4,My mentor was patient and explained things until I got it. I liked building real projects instead of just sitting through lectures.
+R00144,E0112,2025-01-25,Mid-Program,2,3,My mentor was patient and explained things until I got it.
+R00145,E0112,2025-05-02,Withdrawal,2,4,"I wanted more laptop time, and the wifi was slow."
+R00146,E0113,2025-06-18,End-of-Program,5,4,It felt like a community. Everyone helped each other out.
+R00147,E0114,2025-06-15,End-of-Program,3,4,
+R00148,E0115,2025-01-25,Mid-Program,4,4,My mentor was patient and explained things until I got it.
+R00149,E0115,2025-06-18,End-of-Program,4,4,
+R00150,E0117,2025-06-14,End-of-Program,4,4,It felt like a community. Everyone helped each other out. I liked building real projects instead of just sitting through lectures.
+R00151,E0118,2025-01-25,Mid-Program,4,5,I liked building real projects instead of just sitting through lectures. It felt like a community. Everyone helped each other out.
+R00152,E0118,2025-06-17,End-of-Program,5,4,It felt like a community. Everyone helped each other out. The portfolio and career prep sessions were really useful.
+R00153,E0119,2025-01-25,Mid-Program,3,4,
+R00154,E0119,2025-06-15,End-of-Program,3,4,
+R00155,E0120,2025-01-25,Mid-Program,4,5,I liked building real projects instead of just sitting through lectures.
+R00156,E0120,2025-06-14,End-of-Program,2,4,It felt like a community. Everyone helped each other out. The portfolio and career prep sessions were really useful.
+R00157,E0122,2025-01-25,Mid-Program,3,5,I liked building real projects instead of just sitting through lectures.
+R00158,E0122,2025-06-15,End-of-Program,5,5,I liked building real projects instead of just sitting through lectures.
+R00159,E0123,2025-01-25,Mid-Program,5,4,The portfolio and career prep sessions were really useful.
+R00160,E0123,2025-06-18,End-of-Program,5,3,It felt like a community. Everyone helped each other out. The portfolio and career prep sessions were really useful.
+R00161,E0124,2025-01-25,Mid-Program,4,4,
+R00162,E0125,2025-01-25,Mid-Program,3,5,The portfolio and career prep sessions were really useful.
+R00163,E0126,2025-01-25,Mid-Program,4,3,I liked building real projects instead of just sitting through lectures. The portfolio and career prep sessions were really useful.
+R00164,E0127,2025-01-25,Mid-Program,5,5,
+R00165,E0127,2025-06-16,End-of-Program,5,4,The portfolio and career prep sessions were really useful. It felt like a community. Everyone helped each other out.
+R00166,E0128,2025-01-25,Mid-Program,5,4,It felt like a community. Everyone helped each other out. The portfolio and career prep sessions were really useful.
+R00167,E0128,2025-06-18,End-of-Program,4,5,The portfolio and career prep sessions were really useful.
+R00168,E0129,2025-06-16,End-of-Program,4,4,"I work part-time and have family duties, so I missed sessions."
+R00169,E0130,2025-01-25,Mid-Program,5,5,My mentor was patient and explained things until I got it.
+R00170,E0130,2025-06-15,End-of-Program,5,5,"I work part-time and have family duties, so I missed sessions."
+R00171,E0131,2024-11-22,Withdrawal,4,3,The portfolio and career prep sessions were really useful.
+R00172,E0132,2025-01-25,Mid-Program,4,4,My mentor was patient and explained things until I got it.
+R00173,E0132,2025-06-16,End-of-Program,5,3,Some weeks moved too fast and I felt lost.
+R00174,E0133,2025-01-25,Mid-Program,3,3,The portfolio and career prep sessions were really useful.
+R00175,E0134,2025-01-25,Mid-Program,5,4,It felt like a community. Everyone helped each other out.
+R00176,E0134,2025-06-18,End-of-Program,4,3,My mentor was patient and explained things until I got it.
+R00177,E0135,2025-01-25,Mid-Program,4,5,I liked building real projects instead of just sitting through lectures.
+R00178,E0135,2025-06-13,End-of-Program,4,4,The portfolio and career prep sessions were really useful. I liked building real projects instead of just sitting through lectures.
+R00179,E0136,2025-01-25,Mid-Program,4,5,
+R00180,E0136,2025-06-18,End-of-Program,4,4,The portfolio and career prep sessions were really useful. It felt like a community. Everyone helped each other out.
+R00181,E0137,2025-06-13,End-of-Program,5,4,My mentor was patient and explained things until I got it. The portfolio and career prep sessions were really useful.
+R00182,E0138,2025-01-25,Mid-Program,5,4,My mentor was patient and explained things until I got it. It felt like a community. Everyone helped each other out.
+R00183,E0138,2025-06-17,End-of-Program,4,4,It felt like a community. Everyone helped each other out.
+R00184,E0139,2025-01-25,Mid-Program,4,5,
+R00185,E0139,2025-06-15,End-of-Program,4,5,I liked building real projects instead of just sitting through lectures.
+R00186,E0140,2025-01-25,Mid-Program,4,4,
+R00187,E0140,2025-06-15,End-of-Program,5,4,I liked building real projects instead of just sitting through lectures. The portfolio and career prep sessions were really useful.
+R00188,E0141,2025-01-25,Mid-Program,4,4,The portfolio and career prep sessions were really useful.
+R00189,E0141,2025-06-13,End-of-Program,5,5,I liked building real projects instead of just sitting through lectures. It felt like a community. Everyone helped each other out.
+R00190,E0142,2025-01-25,Mid-Program,4,3,
+R00191,E0142,2025-06-15,End-of-Program,5,4,
+R00192,E0143,2025-01-25,Mid-Program,3,4,
+R00193,E0144,2025-01-25,Mid-Program,4,4,My mentor was patient and explained things until I got it.
+R00194,E0144,2025-06-13,End-of-Program,5,4,It felt like a community. Everyone helped each other out.
+R00195,E0145,2025-01-25,Mid-Program,3,4,"I work part-time and have family duties, so I missed sessions."
+R00196,E0146,2025-01-25,Mid-Program,4,4,Getting to the studio was hard. The bus takes forever.
+R00197,E0146,2025-06-15,End-of-Program,5,3,My mentor was patient and explained things until I got it.
+R00198,E0147,2025-02-15,Mid-Program,3,4,Getting to the studio was hard. The bus takes forever. I was not always sure what was expected for project deadlines.
+R00199,E0147,2025-03-05,End-of-Program,3,2,"Some weeks moved too fast and I felt lost. I work part-time and have family duties, so I missed sessions."
+R00200,E0148,2025-03-04,End-of-Program,4,4,
+R00201,E0149,2025-02-15,Mid-Program,4,5,Getting to the studio was hard. The bus takes forever. I liked building real projects instead of just sitting through lectures.
+R00202,E0150,2025-02-15,Mid-Program,3,3,"I wanted more laptop time, and the wifi was slow."
+R00203,E0150,2025-03-05,End-of-Program,3,1,"I wanted more laptop time, and the wifi was slow."
+R00204,E0152,2025-02-15,Mid-Program,4,5,It felt like a community. Everyone helped each other out.
+R00205,E0153,2025-02-15,Mid-Program,4,4,It felt like a community. Everyone helped each other out.
+R00206,E0153,2025-02-28,End-of-Program,5,4,Getting to the studio was hard. The bus takes forever. I liked building real projects instead of just sitting through lectures.
+R00207,E0154,2025-02-28,End-of-Program,5,5,
+R00208,E0158,2025-06-28,Mid-Program,4,4,
+R00209,E0159,2025-06-28,Mid-Program,2,3,
+R00210,E0159,2025-07-14,End-of-Program,4,4,I liked building real projects instead of just sitting through lectures.
+R00211,E0160,2025-06-28,Mid-Program,3,4,"I work part-time and have family duties, so I missed sessions."
+R00212,E0161,2025-07-13,End-of-Program,2,2,The portfolio and career prep sessions were really useful.
+R00213,E0162,2025-06-28,Mid-Program,5,4,
+R00214,E0162,2025-07-13,End-of-Program,4,4,I liked building real projects instead of just sitting through lectures.
+R00215,E0163,2025-06-28,Mid-Program,4,4,
+R00216,E0164,2025-06-28,Mid-Program,3,4,
+R00217,E0166,2026-01-24,Mid-Program,5,3,The portfolio and career prep sessions were really useful. It felt like a community. Everyone helped each other out.
+R00218,E0167,2026-01-24,Mid-Program,5,5,
+R00219,E0168,2026-01-24,Mid-Program,4,5,The portfolio and career prep sessions were really useful. Getting to the studio was hard. The bus takes forever.
+R00220,E0168,2026-06-12,End-of-Program,5,4,I was not always sure what was expected for project deadlines.
+R00221,E0169,2026-01-24,Mid-Program,3,3,The portfolio and career prep sessions were really useful.
+R00222,E0170,2026-01-24,Mid-Program,5,4,Getting to the studio was hard. The bus takes forever. The portfolio and career prep sessions were really useful.
+R00223,E0170,2026-06-15,End-of-Program,4,5,I liked building real projects instead of just sitting through lectures.
+R00224,E0171,2026-01-24,Mid-Program,4,4,I liked building real projects instead of just sitting through lectures.
+R00225,E0171,2026-06-17,End-of-Program,4,4,
+R00226,E0173,2026-06-13,End-of-Program,5,5,The portfolio and career prep sessions were really useful.
+R00227,E0174,2026-06-15,End-of-Program,4,4,I liked building real projects instead of just sitting through lectures.
+R00228,E0175,2026-01-24,Mid-Program,5,3,
+R00229,E0175,2026-06-17,End-of-Program,4,5,
+R00230,E0176,2026-06-14,End-of-Program,4,5,My mentor was patient and explained things until I got it.
+R00231,E0177,2026-01-24,Mid-Program,3,5,
+R00232,E0178,2026-01-24,Mid-Program,4,3,"It felt like a community. Everyone helped each other out. The schedule clashed with school and other commitments, so it was hard to keep up."
+R00233,E0179,2026-01-24,Mid-Program,3,5,It felt like a community. Everyone helped each other out.
+R00234,E0179,2026-06-12,End-of-Program,4,4,I liked building real projects instead of just sitting through lectures.
+R00235,E0180,2026-01-24,Mid-Program,4,5,I liked building real projects instead of just sitting through lectures.
+R00236,E0180,2026-06-17,End-of-Program,5,5,It felt like a community. Everyone helped each other out. The portfolio and career prep sessions were really useful.
+R00237,E0181,2026-01-24,Mid-Program,4,3,It felt like a community. Everyone helped each other out.
+R00238,E0183,2026-06-17,End-of-Program,5,5,"I wanted more laptop time, and the wifi was slow. The portfolio and career prep sessions were really useful."
+R00239,E0184,2026-06-12,End-of-Program,5,4,The portfolio and career prep sessions were really useful. I liked building real projects instead of just sitting through lectures.
+R00240,E0185,2026-01-24,Mid-Program,5,5,The portfolio and career prep sessions were really useful.
+R00241,E0185,2026-06-14,End-of-Program,4,5,The portfolio and career prep sessions were really useful.
+R00242,E0187,2026-01-24,Mid-Program,5,3,Getting to the studio was hard. The bus takes forever.
+R00243,E0187,2026-06-13,End-of-Program,5,4,
+R00244,E0188,2026-01-24,Mid-Program,4,4,I liked building real projects instead of just sitting through lectures. It felt like a community. Everyone helped each other out.
+R00245,E0188,2026-06-16,End-of-Program,5,3,
+R00246,E0189,2026-01-24,Mid-Program,3,3,Getting to the studio was hard. The bus takes forever.
+R00247,E0189,2026-06-15,End-of-Program,5,4,The portfolio and career prep sessions were really useful. Getting to the studio was hard. The bus takes forever.
+R00248,E0190,2026-01-24,Mid-Program,3,5,
+R00249,E0190,2026-06-15,End-of-Program,4,4,"The schedule clashed with school and other commitments, so it was hard to keep up. It felt like a community. Everyone helped each other out."
+R00250,E0191,2026-01-24,Mid-Program,3,3,I liked building real projects instead of just sitting through lectures. Getting to the studio was hard. The bus takes forever.
+R00251,E0191,2026-03-18,Withdrawal,3,2,
+R00252,E0192,2026-01-24,Mid-Program,5,3,
+R00253,E0192,2026-06-15,End-of-Program,4,4,My mentor was patient and explained things until I got it.
+R00254,E0193,2026-01-24,Mid-Program,4,4,I liked building real projects instead of just sitting through lectures. The portfolio and career prep sessions were really useful.
+R00255,E0194,2026-06-14,End-of-Program,5,5,My mentor was patient and explained things until I got it.
+R00256,E0195,2026-01-24,Mid-Program,4,5,The portfolio and career prep sessions were really useful.
+R00257,E0195,2026-06-16,End-of-Program,4,5,
+R00258,E0196,2026-06-16,End-of-Program,5,3,
+R00259,E0197,2026-01-24,Mid-Program,4,4,The portfolio and career prep sessions were really useful. I liked building real projects instead of just sitting through lectures.
+R00260,E0197,2026-06-17,End-of-Program,5,5,Getting to the studio was hard. The bus takes forever.
+R00261,E0198,2026-01-24,Mid-Program,4,5,The portfolio and career prep sessions were really useful.
+R00262,E0199,2026-01-24,Mid-Program,5,5,
+R00263,E0199,2026-06-17,End-of-Program,4,4,The portfolio and career prep sessions were really useful. My mentor was patient and explained things until I got it.
+R00264,E0200,2026-06-14,End-of-Program,4,4,The portfolio and career prep sessions were really useful.
+R00265,E0201,2026-06-14,End-of-Program,4,5,The portfolio and career prep sessions were really useful.
+R00266,E0202,2026-01-24,Mid-Program,5,5,I liked building real projects instead of just sitting through lectures.
+R00267,E0202,2026-06-17,End-of-Program,5,4,I liked building real projects instead of just sitting through lectures. Getting to the studio was hard. The bus takes forever.
+R00268,E0204,2026-01-24,Mid-Program,5,4,My mentor was patient and explained things until I got it.
+R00269,E0204,2026-06-17,End-of-Program,4,3,
+R00270,E0205,2026-01-24,Mid-Program,4,4,My mentor was patient and explained things until I got it.
+R00271,E0205,2026-06-13,End-of-Program,4,4,
+R00272,E0206,2026-01-24,Mid-Program,4,4,My mentor was patient and explained things until I got it. The portfolio and career prep sessions were really useful.
+R00273,E0207,2026-06-13,End-of-Program,5,4,It felt like a community. Everyone helped each other out. The portfolio and career prep sessions were really useful.
+R00274,E0208,2026-01-24,Mid-Program,4,5,
+R00275,E0208,2026-06-16,End-of-Program,4,3,
+R00276,E0210,2026-07-18,Mid-Program,4,4,The portfolio and career prep sessions were really useful.
+R00277,E0211,2026-07-18,Mid-Program,4,5,"I liked building real projects instead of just sitting through lectures. The schedule clashed with school and other commitments, so it was hard to keep up."
+R00278,E0213,2026-07-18,Mid-Program,5,5,I liked building real projects instead of just sitting through lectures. Some weeks moved too fast and I felt lost.
+R00279,E0214,2026-07-18,Mid-Program,3,4,Getting to the studio was hard. The bus takes forever. The portfolio and career prep sessions were really useful.
+R00280,E0215,2026-07-18,Mid-Program,5,3,My mentor was patient and explained things until I got it. I was not always sure what was expected for project deadlines.
+R00281,E0217,2026-07-18,Mid-Program,4,5,
+R00282,E0218,2026-07-18,Mid-Program,4,4,It felt like a community. Everyone helped each other out. My mentor was patient and explained things until I got it.
+R00283,E0219,2026-07-18,Mid-Program,5,5,
+R00284,E0220,2026-07-18,Mid-Program,5,5,My mentor was patient and explained things until I got it. It felt like a community. Everyone helped each other out.
+R00285,E0223,2026-07-18,Mid-Program,3,4,My mentor was patient and explained things until I got it. The portfolio and career prep sessions were really useful.
+R00286,E0225,2026-07-18,Mid-Program,3,5,
+R00287,E0226,2026-07-18,Mid-Program,5,4,
+R00288,E0227,2026-07-18,Mid-Program,4,4,It felt like a community. Everyone helped each other out.

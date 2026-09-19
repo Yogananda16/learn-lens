@@ -1,0 +1,215 @@
+student_id,first_name,last_name,gender,date_of_birth,entry_grade,race_ethnicity,home_town,school_district,econ_disadvantaged_flag
+100001,Mark,Johnson,Male,2007-12-08,10,Hispanic/Latino,Bridgeport,Bridgeport Public Schools,N
+100002,Denise,Walker,Female,2008-10-21,9,Asian,North Haven,North Haven Public Schools,N
+100003,Nancy,Rhodes,Female,2006-07-11,12,Hispanic/Latino,West Haven,West Haven Public Schools,N
+100004,Stephanie,Miller,Female,2009-05-20,9,Two or More Races,North Haven,North Haven Public Schools,N
+100005,Jennifer,Johnson,Female,2006-10-14,11,Hispanic/Latino,Ansonia,Ansonia Public Schools,Y
+100006,Colleen,Wagner,Female,2007-08-06,11,Asian,East Haven,East Haven Public Schools,N
+100007,Alexander,Gonzalez,Male,2007-01-07,11,Black or African American,North Haven,North Haven Public Schools,Y
+100008,Marie,Gardner,Female,2009-04-18,9,Hispanic/Latino,New Haven,New Haven Public Schools,N
+100009,Connie,Lawrence,Female,2008-03-25,10,Hispanic/Latino,Ansonia,Ansonia Public Schools,Y
+100010,Robert,Smith,Male,2008-07-26,10,Hispanic/Latino,New Haven,New Haven Public Schools,Y
+100011,Robert,Wolfe,Male,2008-06-25,10,Black or African American,Milford,Milford Public Schools,N
+100012,Gina,Moore,Female,2008-01-04,10,Asian,New Haven,New Haven Public Schools,Y
+100013,Tyler,Rogers,Male,2005-11-05,12,Black or African American,North Haven,North Haven Public Schools,Y
+100014,Anna,Davis,Female,2007-09-15,10,Hispanic/Latino,New Haven,New Haven Public Schools,N
+100015,Sarah,Munoz,Female,2007-08-27,11,Hispanic/Latino,New Haven,New Haven Public Schools,N
+100016,Robert,Blair,Male,2005-10-31,12,Black or African American,West Haven,West Haven Public Schools,Y
+100017,Joshua,Dudley,Male,2006-10-24,11,Asian,West Haven,West Haven Public Schools,Y
+100018,Jamie,Arnold,Female,2007-02-06,11,Black or African American,New Haven,New Haven Public Schools,Y
+100019,Ronald,Montgomery,Male,2006-03-23,12,Black or African American,New Haven,New Haven Public Schools,N
+100020,Shannon,Ray,Female,2006-09-16,11,Hispanic/Latino,New Haven,New Haven Public Schools,N
+100021,Michele,Williams,Female,2005-11-25,12,Black or African American,New Haven,New Haven Public Schools,N
+100022,Darren,Roberts,Male,2006-02-25,12,White,Wallingford,Wallingford Public Schools,Y
+100023,Angela,Hall,Female,2009-05-07,9,Hispanic/Latino,Hamden,Hamden Public Schools,Y
+100024,Ashlee,Ramirez,Female,2008-05-15,10,Black or African American,Norwalk,Norwalk Public Schools,N
+100025,Mark,Diaz,Male,2007-05-05,11,Asian,Stamford,Stamford Public Schools,Y
+100026,Jacqueline,Clark,Female,2009-01-30,9,White,Stamford,Stamford Public Schools,Y
+100027,Derek,Zuniga,Male,2009-03-04,9,Asian,Stamford,Stamford Public Schools,Y
+100028,Matthew,Lynch,Male,2006-09-15,11,Hispanic/Latino,Bridgeport,Bridgeport Public Schools,N
+100029,Christopher,Daniel,Male,2009-07-25,9,White,Bridgeport,Bridgeport Public Schools,Y
+100030,Christopher,Gray,Male,2007-07-29,11,White,Stamford,Stamford Public Schools,Y
+100031,William,Bowman,Male,2009-07-09,9,Black or African American,Stamford,Stamford Public Schools,N
+100032,Justin,Cohen,Male,2006-08-28,12,Black or African American,Stamford,Stamford Public Schools,Y
+100033,Ryan,Parsons,Male,2008-03-25,10,Black or African American,Norwalk,Norwalk Public Schools,N
+100034,Daryl,Johnson,Male,2009-07-19,9,Hispanic/Latino,Stamford,Stamford Public Schools,N
+100035,Ethan,Adams,Male,2007-01-21,11,Black or African American,Darien,Darien Public Schools,N
+100036,Daniel,Hahn,Male,2008-07-24,10,White,Norwalk,Norwalk Public Schools,Y
+100037,Sherri,Edwards,Female,2008-11-23,9,Hispanic/Latino,Norwalk,Norwalk Public Schools,Y
+100038,Mary,Foster,Female,2009-01-16,9,Asian,Stamford,Stamford Public Schools,N
+100039,Suzanne,Ellis,Female,2006-09-20,11,Hispanic/Latino,Greenwich,Greenwich Public Schools,Y
+100040,Deborah,Wright,Female,2008-10-26,9,Asian,Stamford,Stamford Public Schools,Y
+100041,Kristina,Baker,Female,2008-02-13,10,Hispanic/Latino,Stamford,Stamford Public Schools,N
+100042,Kevin,Hurst,Male,2007-09-16,10,White,Greenwich,Greenwich Public Schools,N
+100043,James,Robinson,Male,2007-09-14,10,Black or African American,Bridgeport,Bridgeport Public Schools,Y
+100044,Whitney,Hicks,Non-binary,2008-02-04,10,Hispanic/Latino,Greenwich,Greenwich Public Schools,N
+100045,Brandon,Williams,Male,1997-12-17,Adult,Hispanic/Latino,Stamford,N/A,Y
+100046,Ashley,Burton,Female,2001-01-04,Adult,White,Norwalk,N/A,Y
+100047,Ricky,Henderson,Male,1989-09-28,Adult,Hispanic/Latino,Stamford,N/A,Y
+100048,Arthur,James,Male,1999-11-19,Adult,Black or African American,Norwalk,N/A,Y
+100049,Zachary,Rice,Male,1994-08-03,Adult,Black or African American,Stamford,N/A,N
+100050,Wesley,Valencia,Male,1988-06-27,Adult,White,Norwalk,N/A,Y
+100051,Adam,Le,Male,1994-03-17,Adult,Black or African American,Stamford,N/A,Y
+100052,Michael,Herrera,Male,1997-09-01,Adult,Hispanic/Latino,Fairfield,N/A,Y
+100053,Derek,Davidson,Male,1994-11-09,Adult,Black or African American,Stamford,N/A,Y
+100054,Brian,Graham,Male,1976-09-01,Adult,Hispanic/Latino,Stamford,N/A,Y
+100055,Shawn,Mckay,Non-binary,1999-12-11,Adult,Hispanic/Latino,Stamford,N/A,Y
+100056,Shawn,Baker,Male,2000-09-22,Adult,Hispanic/Latino,Norwalk,N/A,N
+100057,Jonathan,White,Male,1976-12-10,Adult,Hispanic/Latino,Stamford,N/A,N
+100058,Thomas,Harrell,Male,1995-11-20,Adult,White,Stamford,N/A,Y
+100059,Edwin,Fowler,Male,1991-12-09,Adult,White,Norwalk,N/A,Y
+100060,Lee,Hernandez,Male,1981-08-05,Adult,Two or More Races,Norwalk,N/A,N
+100061,Pamela,Ryan,Female,1975-09-25,Adult,White,Norwalk,N/A,Y
+100062,Richard,Moreno,Male,1993-06-04,Adult,Hispanic/Latino,Norwalk,N/A,Y
+100063,Aaron,Nguyen,Male,2007-06-04,11,White,New Haven,New Haven Public Schools,N
+100064,Alec,Hickman,Male,2006-02-28,12,Hispanic/Latino,Hamden,Hamden Public Schools,Y
+100065,Shawn,Decker,Male,2008-09-23,10,Asian,Milford,Milford Public Schools,Y
+100066,Eric,Brown,Male,2006-10-21,12,Hispanic/Latino,Hamden,Hamden Public Schools,Y
+100067,Sherry,Arroyo,Female,2006-08-20,12,White,Hamden,Hamden Public Schools,N
+100068,Bradley,Tucker,Male,2009-12-01,9,Hispanic/Latino,Hamden,Hamden Public Schools,N
+100069,Andrea,Hodges,Female,2006-10-26,12,Hispanic/Latino,New Haven,New Haven Public Schools,Y
+100070,Pamela,Anderson,Female,2006-10-27,12,White,Bridgeport,Bridgeport Public Schools,Y
+100071,Karen,Pierce,Female,2007-12-01,11,White,Hamden,Hamden Public Schools,N
+100072,Deborah,Brennan,Female,2008-12-25,10,White,New Haven,New Haven Public Schools,N
+100073,Jay,Lewis,Male,2007-11-06,11,Hispanic/Latino,New Haven,New Haven Public Schools,Y
+100074,Joshua,Blair,Male,2008-11-07,10,Black or African American,West Haven,West Haven Public Schools,Y
+100075,Curtis,Collins,Male,2008-04-17,10,Black or African American,Wallingford,Wallingford Public Schools,Y
+100076,Zachary,Santos,Male,2009-01-15,10,Hispanic/Latino,Ansonia,Ansonia Public Schools,Y
+100077,Jeffrey,Holmes,Male,2006-04-11,12,Hispanic/Latino,Bridgeport,Bridgeport Public Schools,Y
+100078,Barbara,Walker,Female,2006-11-12,12,Hispanic/Latino,New Haven,New Haven Public Schools,N
+100079,Gina,Chapman,Female,2008-07-27,10,White,Milford,Milford Public Schools,N
+100080,Crystal,Robinson,Female,2009-06-20,9,Black or African American,Hamden,Hamden Public Schools,Y
+100081,Benjamin,Welch,Male,2009-08-17,9,White,New Haven,New Haven Public Schools,Y
+100082,Darryl,Whitehead,Male,1995-01-10,Adult,Hispanic/Latino,Bridgeport,N/A,Y
+100083,Shannon,Jones,Female,1992-09-18,Adult,White,Norwalk,N/A,N
+100084,Cynthia,Caldwell,Female,1993-03-16,Adult,Hispanic/Latino,Norwalk,N/A,Y
+100085,Daniel,Anderson,Male,1979-06-11,Adult,White,Stamford,N/A,N
+100086,Selena,Duncan,Non-binary,1997-02-10,Adult,Hispanic/Latino,Greenwich,N/A,Y
+100087,John,Mueller,Male,1999-06-25,Adult,Black or African American,Norwalk,N/A,Y
+100088,Lindsey,Lee,Non-binary,1982-08-11,Adult,Hispanic/Latino,Stamford,N/A,N
+100089,Anne,Jordan,Female,1997-01-01,Adult,Hispanic/Latino,Norwalk,N/A,Y
+100090,Jessica,Owens,Female,2002-09-08,Adult,White,Stamford,N/A,Y
+100091,Nicholas,Nunez,Male,1990-01-14,Adult,White,Bridgeport,N/A,N
+100092,William,Garcia,Male,1980-01-28,Adult,Black or African American,Stamford,N/A,N
+100093,James,Morgan,Male,1995-04-14,Adult,Black or African American,Stamford,N/A,N
+100094,Shannon,Wright,Female,1992-04-17,Adult,White,Stamford,N/A,Y
+100095,Connor,West,Male,1981-01-09,Adult,Hispanic/Latino,Norwalk,N/A,Y
+100096,Jennifer,Ramirez,Female,1984-01-11,Adult,White,Stamford,N/A,Y
+100097,David,Leblanc,Male,2002-03-31,Adult,Black or African American,Stamford,N/A,N
+100098,Jessica,Callahan,Female,2001-01-09,Adult,Black or African American,Norwalk,N/A,Y
+100099,Joshua,Williams,Male,1998-05-13,Adult,White,Stamford,N/A,Y
+100100,Zachary,Huff,Male,2007-09-15,11,Black or African American,Bridgeport,Bridgeport Public Schools,Y
+100101,Tracy,House,Female,2008-05-12,11,Black or African American,New Haven,New Haven Public Schools,Y
+100102,Sarah,Martin,Female,2007-08-04,12,Hispanic/Latino,New Haven,New Haven Public Schools,N
+100103,Todd,Lewis,Non-binary,2007-09-09,12,Black or African American,New Haven,New Haven Public Schools,N
+100104,Jennifer,Brown,Female,2010-04-07,9,White,New Haven,New Haven Public Schools,Y
+100105,Jamie,Galloway,Female,2009-07-22,10,Black or African American,New Haven,New Haven Public Schools,Y
+100106,Deborah,Bowers,Female,2007-01-03,12,Black or African American,Hamden,Hamden Public Schools,Y
+100107,Jordan,Henderson,Female,2009-04-12,10,White,East Haven,East Haven Public Schools,N
+100108,Tina,Cowan,Female,2008-11-28,10,Hispanic/Latino,New Haven,New Haven Public Schools,Y
+100109,Kristi,Higgins,Female,2008-04-03,11,White,Hamden,Hamden Public Schools,Y
+100110,Christopher,Phillips,Male,2008-09-04,11,Two or More Races,Bridgeport,Bridgeport Public Schools,Y
+100111,Tracy,Riley,Female,2010-04-14,9,Black or African American,East Haven,East Haven Public Schools,N
+100112,Joshua,Adkins,Male,2007-01-05,12,Hispanic/Latino,Wallingford,Wallingford Public Schools,Y
+100113,Amy,Silva,Female,2010-04-27,9,White,Hamden,Hamden Public Schools,Y
+100114,Kathryn,Farrell,Female,2008-08-01,11,Black or African American,New Haven,New Haven Public Schools,N
+100115,Christopher,Yu,Male,2007-08-06,12,Two or More Races,East Haven,East Haven Public Schools,Y
+100116,Angela,Lopez,Female,2009-02-19,10,Hispanic/Latino,North Haven,North Haven Public Schools,Y
+100117,Linda,Leonard,Female,2006-11-30,12,Black or African American,Ansonia,Ansonia Public Schools,Y
+100118,David,Wilson,Male,2008-07-05,11,Black or African American,Ansonia,Ansonia Public Schools,N
+100119,Steve,Sanchez,Male,2007-12-20,11,Hispanic/Latino,Stamford,Stamford Public Schools,Y
+100120,Linda,Harvey,Female,2007-05-30,12,Asian,Stamford,Stamford Public Schools,Y
+100121,Robert,Silva,Non-binary,2008-11-30,10,Hispanic/Latino,Stamford,Stamford Public Schools,N
+100122,Kelly,Donovan,Female,2009-09-06,10,Hispanic/Latino,Norwalk,Norwalk Public Schools,N
+100123,Christina,Moran,Female,2010-01-09,9,Black or African American,Norwalk,Norwalk Public Schools,N
+100124,Cynthia,Foster,Female,2009-01-09,10,Black or African American,Greenwich,Greenwich Public Schools,Y
+100125,Michael,Evans,Male,2010-03-24,9,White,Stamford,Stamford Public Schools,N
+100126,Eugene,Walton,Male,2009-04-14,10,White,Norwalk,Norwalk Public Schools,N
+100127,Angel,Ellis,Female,2009-04-18,10,Black or African American,Greenwich,Greenwich Public Schools,Y
+100128,Zachary,Ferrell,Male,2009-05-03,10,Black or African American,Fairfield,Fairfield Public Schools,Y
+100129,Benjamin,Lewis,Male,2006-10-06,12,White,Stamford,Stamford Public Schools,Y
+100130,Deborah,Mahoney,Female,2009-06-22,10,Hispanic/Latino,Stamford,Stamford Public Schools,Y
+100131,Stanley,Suarez,Male,2009-12-04,9,Black or African American,Stamford,Stamford Public Schools,N
+100132,Jaclyn,Moore,Female,2010-01-20,9,Hispanic/Latino,Fairfield,Fairfield Public Schools,Y
+100133,Roy,Warner,Male,2007-06-30,12,White,Norwalk,Norwalk Public Schools,N
+100134,Lisa,Archer,Female,2008-12-31,10,White,Stamford,Stamford Public Schools,N
+100135,Martha,Smith,Female,2008-09-24,10,Two or More Races,Stamford,Stamford Public Schools,Y
+100136,Ruth,Evans,Female,2007-03-25,12,Black or African American,Bridgeport,Bridgeport Public Schools,N
+100137,Matthew,Mcmillan,Male,2008-11-01,10,White,Stamford,Stamford Public Schools,N
+100138,Chad,Wilson,Male,2008-03-29,11,White,New Haven,New Haven Public Schools,N
+100139,Ashley,Tran,Female,2008-08-04,11,Black or African American,Hamden,Hamden Public Schools,N
+100140,Dominic,Jacobs,Male,2008-01-11,12,Asian,West Haven,West Haven Public Schools,Y
+100141,Michelle,Harris,Female,2008-09-01,11,Hispanic/Latino,Ansonia,Ansonia Public Schools,N
+100142,Madison,Baker,Female,2008-06-04,11,Asian,New Haven,New Haven Public Schools,Y
+100143,John,Whitehead,Male,2008-01-21,12,Black or African American,New Haven,New Haven Public Schools,N
+100144,Sarah,Davis,Female,2007-08-27,12,White,West Haven,West Haven Public Schools,Y
+100145,Jeff,Hill,Male,2008-02-04,11,Black or African American,Ansonia,Ansonia Public Schools,N
+100146,Aaron,Wise,Male,2007-06-15,12,Asian,West Haven,West Haven Public Schools,Y
+100147,Mandy,Green,Female,2008-12-23,11,White,New Haven,New Haven Public Schools,Y
+100148,Natalie,Arnold,Female,2007-12-20,12,Hispanic/Latino,New Haven,New Haven Public Schools,N
+100149,Jeffrey,Smith,Male,2009-05-14,11,Black or African American,New Haven,New Haven Public Schools,Y
+100150,Benjamin,Ware,Male,2008-09-11,11,White,Wallingford,Wallingford Public Schools,N
+100151,Stuart,Gardner,Male,2008-04-04,12,White,New Haven,New Haven Public Schools,N
+100152,Sandra,Aguilar,Female,2008-09-13,11,Hispanic/Latino,Hamden,Hamden Public Schools,Y
+100153,Brittany,Anderson,Female,2009-05-31,11,White,New Haven,New Haven Public Schools,Y
+100154,Eric,Nolan,Male,2008-12-26,11,White,Bridgeport,Bridgeport Public Schools,N
+100155,Rebecca,Valencia,Female,2009-01-30,11,Black or African American,Ansonia,Ansonia Public Schools,Y
+100156,Stephanie,Clark,Female,2008-06-12,12,Hispanic/Latino,East Haven,East Haven Public Schools,N
+100157,David,Garcia,Male,2011-04-21,9,White,Stamford,Stamford Public Schools,N
+100158,Richard,Henson,Male,2008-08-27,12,Hispanic/Latino,Stamford,Stamford Public Schools,N
+100159,Jason,Oliver,Male,2008-11-24,11,White,Norwalk,Norwalk Public Schools,N
+100160,Christopher,Spears,Male,2008-09-29,11,White,Norwalk,Norwalk Public Schools,N
+100161,Sean,Cherry,Male,2009-12-16,10,White,Greenwich,Greenwich Public Schools,N
+100162,Robert,Keith,Male,2009-07-15,11,Asian,Stamford,Stamford Public Schools,Y
+100163,Alexander,Doyle,Male,2010-08-24,10,Hispanic/Latino,Greenwich,Greenwich Public Schools,N
+100164,Evelyn,Galvan,Female,2010-12-31,9,White,Stamford,Stamford Public Schools,N
+100165,Robert,Shields,Male,2010-08-17,10,Hispanic/Latino,Stamford,Stamford Public Schools,N
+100166,Rita,Adams,Female,2010-10-18,9,Black or African American,Stamford,Stamford Public Schools,Y
+100167,Rachel,Rodriguez,Female,2009-09-20,10,White,Stamford,Stamford Public Schools,Y
+100168,Shelby,Garrison,Female,2009-11-10,10,Two or More Races,Stamford,Stamford Public Schools,Y
+100169,Courtney,Velasquez,Female,2010-01-11,10,Black or African American,Stamford,Stamford Public Schools,Y
+100170,Joe,Torres,Male,2010-04-04,10,Hispanic/Latino,Bridgeport,Bridgeport Public Schools,N
+100171,Robert,Perez,Male,2010-10-06,9,Hispanic/Latino,Stamford,Stamford Public Schools,Y
+100172,Alexander,Lee,Male,2008-07-15,12,Two or More Races,Darien,Darien Public Schools,N
+100173,Erin,Lin,Female,2008-10-04,11,Black or African American,Stamford,Stamford Public Schools,N
+100174,Walter,Ramirez,Male,2008-10-27,11,White,Darien,Darien Public Schools,Y
+100175,Martin,Ross,Male,2009-12-28,10,Hispanic/Latino,Stamford,Stamford Public Schools,N
+100176,Veronica,Herrera,Female,2009-05-26,11,White,Ansonia,Ansonia Public Schools,Y
+100177,Teresa,Wilson,Female,2010-03-14,10,Black or African American,New Haven,New Haven Public Schools,Y
+100178,Tracy,White,Female,2011-02-21,9,White,New Haven,New Haven Public Schools,Y
+100179,Tonya,Baker,Female,2010-11-09,9,White,North Haven,North Haven Public Schools,Y
+100180,Ashley,Hamilton,Female,2009-04-01,11,White,Bridgeport,Bridgeport Public Schools,N
+100181,Monica,Edwards,Female,2009-05-22,11,White,New Haven,New Haven Public Schools,Y
+100182,Larry,Dixon,Male,2009-10-14,10,Hispanic/Latino,Hamden,Hamden Public Schools,N
+100183,Janice,Ray,Female,2007-11-08,12,Two or More Races,New Haven,New Haven Public Schools,Y
+100184,David,Fletcher,Male,2011-07-21,9,White,North Haven,North Haven Public Schools,Y
+100185,Aaron,Frost,Male,2009-08-31,11,Black or African American,Hamden,Hamden Public Schools,N
+100186,Joshua,Ball,Male,2009-05-10,11,Two or More Races,New Haven,New Haven Public Schools,Y
+100187,Patrick,Lambert,Male,2009-09-18,10,Black or African American,Wallingford,Wallingford Public Schools,N
+100188,Helen,Jones,Female,2011-01-13,9,Hispanic/Latino,New Haven,New Haven Public Schools,N
+100189,Mary,Rivera,Female,2009-09-17,10,White,Hamden,Hamden Public Schools,Y
+100190,Erik,Charles,Male,2010-06-26,10,Black or African American,Bridgeport,Bridgeport Public Schools,Y
+100191,Nathan,Evans,Male,2010-10-03,9,Asian,New Haven,New Haven Public Schools,Y
+100192,Eric,Ortiz,Male,2011-01-08,9,White,West Haven,West Haven Public Schools,N
+100193,James,Phillips,Male,2007-11-06,12,Black or African American,Hamden,Hamden Public Schools,N
+100194,Bethany,Fisher,Female,2009-03-01,11,Hispanic/Latino,Milford,Milford Public Schools,N
+100195,Teresa,Byrd,Female,1998-07-08,Adult,Hispanic/Latino,Stamford,N/A,Y
+100196,Stephanie,Gilbert,Female,2005-10-26,Adult,White,Stamford,N/A,N
+100197,Eric,Kelley,Male,1995-04-30,Adult,Hispanic/Latino,Stamford,N/A,Y
+100198,April,Mitchell,Female,1989-03-22,Adult,Black or African American,Stamford,N/A,Y
+100199,Jeffrey,Carpenter,Male,1987-04-30,Adult,White,Stamford,N/A,Y
+100200,Mary,Marshall,Female,1982-02-01,Adult,White,Greenwich,N/A,N
+100201,Jeremy,Lewis,Male,1998-12-23,Adult,Black or African American,Stamford,N/A,Y
+100202,John,Santana,Male,1992-12-06,Adult,Black or African American,Norwalk,N/A,N
+100203,Rebecca,Jackson,Female,1974-12-06,Adult,Black or African American,Stamford,N/A,Y
+100204,Bradley,Robertson,Male,2002-03-26,Adult,Hispanic/Latino,Greenwich,N/A,Y
+100205,Mark,Rogers,Male,1986-06-18,Adult,Black or African American,Stamford,N/A,Y
+100206,Robert,Potter,Male,2006-12-05,Adult,Black or African American,Stamford,N/A,Y
+100207,Michael,Walker,Male,1983-01-15,Adult,Hispanic/Latino,Bridgeport,N/A,Y
+100208,Christina,Johnson,Female,1986-03-24,Adult,White,Stamford,N/A,Y
+100209,Danielle,Alvarez,Female,1999-07-11,Adult,Two or More Races,Stamford,N/A,N
+100210,Samuel,Jones,Male,1995-02-23,Adult,White,Norwalk,N/A,Y
+100211,Jason,Soto,Male,1985-01-23,Adult,White,Stamford,N/A,N
+100212,Cheyenne,Horton,Female,1998-07-27,Adult,Black or African American,Greenwich,N/A,N
+100213,Johnny,Sanchez,Male,2002-12-10,Adult,Asian,Stamford,N/A,N
+100214,Mary,Smith,Female,1995-06-13,Adult,Two or More Races,Bridgeport,N/A,N

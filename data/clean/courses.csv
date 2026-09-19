@@ -1,0 +1,17 @@
+course_id,program_id,course_name,contact_hours
+CRS01,P01,Intro to Web Development,120
+CRS02,P01,Backend and Databases,120
+CRS03,P01,Web Capstone Product,100
+CRS04,P02,Security Fundamentals,120
+CRS05,P02,Networks and Threats,120
+CRS06,P02,Security Capstone,100
+CRS07,P03,Game Design Basics,120
+CRS08,P03,Game Programming,120
+CRS09,P03,Game Capstone,100
+CRS10,P04,Python for AI,60
+CRS11,P04,Machine Learning Basics,60
+CRS12,P05,Quantum Concepts,20
+CRS13,P05,Qiskit Lab,20
+CRS14,P06,Programming Fundamentals,180
+CRS15,P06,Software Engineering Practices,180
+CRS16,P06,Portfolio and Career Prep,100

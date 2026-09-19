@@ -1,0 +1,13 @@
+cohort_id,program_id,cohort_name,start_date,end_date,location,funder,planned_seats
+C01,P01,Web Development - Fall 2023,2023-09-11,2024-06-14,New Haven,District Partnership,24
+C02,P02,Cybersecurity - Fall 2023,2023-09-11,06/14/2024,Stamford,,24
+C03,P06,Career Readiness - Spring 2024,2024-01-08,2024-07-05,Stamford,State Workforce Grant,20
+C04,P04,AI Foundations - Spring 2024,2024-02-05,2024-06-21,New Haven,District Partnership,20
+C05,P06,Career Readiness - Summer 2024,2024-08-12,2025-02-07,Stamford,State Workforce Grant,20
+C06,P01,Web Development - Fall 2024,2024-09-09,2025-06-13,New Haven,District Partnership,24
+C07,P03,Game Development - Fall 2024,2024-09-09,2025-06-13,Stamford,Corporate Foundation,24
+C08,P05,Quantum Intro - Spring 2025,2025-02-03,2025-02-28,New Haven,University Grant,10
+C09,P05,Quantum Intro - Summer 2025,06/16/2025,2025-07-11,New Haven,University Grant,10
+C10,P02,Cybersecurity - Fall 2025,2025-09-08,2026-06-12,STAMFORD,Corporate Foundation,24
+C11,P01,Web Development - Fall 2025,2025-09-08,2026-06-12,New Haven,District Partnership,24
+C12,P06,Career Readiness - Spring 2026,2026-04-20,10/16/2026,Stamford,State Workforce Grant,24 seats

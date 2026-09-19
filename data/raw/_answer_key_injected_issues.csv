@@ -1,0 +1,46 @@
+table,column,issue,rows_affected
+students,gender,inconsistent gender labels,69
+students,first_name,inconsistent casing / spaces in name,11
+students,last_name,inconsistent casing / spaces in name,9
+students,entry_grade,grade written in different ways,51
+students,home_town,inconsistent town names,26
+students,race_ethnicity,missing value,9
+students,date_of_birth,missing value,2
+students,date_of_birth,"impossible dates (1900, 2031)",2
+students,date_of_birth,mixed date formats,68
+students,(row),duplicate rows,6
+enrollments,withdraw_date,withdrawn but no withdraw date,4
+enrollments,withdraw_date,withdraw date before enroll date,3
+enrollments,withdraw_reason,missing value,2
+enrollments,status,inconsistent status labels,67
+enrollments,student_id,orphan rows (student not in students),2
+enrollments,enroll_date,mixed date formats,64
+enrollments,withdraw_date,mixed date formats,10
+enrollments,(row),duplicate rows,5
+attendance,session_date,sessions on a weekend,25
+attendance,session_date,dates in the future,10
+attendance,status,inconsistent status labels,2262
+attendance,status,missing value,84
+attendance,session_date,mixed date formats,2291
+attendance,(row),duplicate rows,152
+grades,letter_grade,letter does not match score,6
+grades,score,missing score (not a withdrawal),8
+grades,score,score above 100,6
+grades,score,negative score,2
+grades,score,score stored as text with % sign,10
+grades,letter_grade,lowercase letter grade,31
+grades,(row),duplicate rows,2
+survey_responses,satisfaction,rating outside 1-5,4
+survey_responses,satisfaction,text instead of number (N/A),3
+survey_responses,belonging,rating outside 1-5,4
+survey_responses,belonging,text instead of number (N/A),3
+survey_responses,comment,extra spaces in comment,11
+survey_responses,comment,ALL CAPS comment,4
+survey_responses,comment,junk / test comments,4
+survey_responses,survey_date,mixed date formats,95
+survey_responses,(row),duplicate rows,3
+cohorts,location,inconsistent location names,1
+cohorts,planned_seats,number stored as text,1
+cohorts,funder,missing value,1
+cohorts,start_date,mixed date formats,1
+cohorts,end_date,mixed date formats,2

@@ -1,0 +1,7 @@
+program_id,program_name,track,subject,length_weeks,grade_band,sessions_per_week
+P01,Web Development,High School,Web Development,40,9-12,2
+P02,Cybersecurity,High School,Cybersecurity,40,9-12,2
+P03,Game Development,High School,Game Development,40,9-12,2
+P04,AI Foundations,High School,Artificial Intelligence,20,9-12,2
+P05,Quantum Intro,High School,Quantum Computing,4,11-12,4
+P06,Career Readiness,Adult,Software Engineering,26,Adult,4
