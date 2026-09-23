@@ -2,11 +2,9 @@
  
 A student outcomes dashboard that shows how each cohort is doing and flags students who might need support early.
  
-![LearnLens dashboard](<img width="1060" height="602" alt="image" src="https://github.com/user-attachments/assets/75566f37-b4eb-43ba-b920-22e7de781b6b" />
-)
- 
-> Built as a portfolio project for a Data Analyst role at dae. All data is synthetic. No real student information is used.
- 
+LearnLens dashboard
+<img width="1060" height="602" alt="Screenshot 2026-09-23 170248" src="https://github.com/user-attachments/assets/f4649c6b-47b6-4410-b73b-99fc38d43c76" />
+
 ---
  
 ## The problem
