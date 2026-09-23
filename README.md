@@ -2,7 +2,7 @@
  
 A student outcomes dashboard that shows how each cohort is doing and flags students who might need support early.
  
-LearnLens dashboard
+LearnLens dashboard | PowerBI file is attached here - learnlens\dashboard
 <img width="1060" height="602" alt="Screenshot 2026-09-23 170248" src="https://github.com/user-attachments/assets/f4649c6b-47b6-4410-b73b-99fc38d43c76" />
 
 ---
